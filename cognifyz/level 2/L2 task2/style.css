@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+/* ================================ header  ========================================== */
+
+#header{
+    position: relative;
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+    font-size: xx-large;
+}
+.ml-auto, .mx-auto {
+    margin-right: 100px;
+}
+.nav-item{
+    padding: 0px 5px 0px 5px;
+}
+
+/* ========================== content ============== */
+
+#content{
+    position: relative;
+    top: 74px;
+    justify-content: center;
+}
+
+
+
